@@ -1,6 +1,6 @@
 # Personal finanse management
 
-By Timur Makukha
+Hi! My name is Timur Makukha, im student from Russia, Ufa. Its my design for databases of the "Personal finanse management" project
 
 ## Video Overview
 
