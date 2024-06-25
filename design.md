@@ -1,4 +1,4 @@
-# Design Document
+# Personal finanse management
 
 By Timur Makukha
 
